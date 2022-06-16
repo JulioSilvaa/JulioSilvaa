@@ -19,8 +19,8 @@ Sejam Bem vindos !!!
 
  <div>
   <a href="https://github.com/JulioSilvaa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=julioSilvaa-&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_shell"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julioSilvaa-bit&layout=compact&langs_count=4&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JulioSilvaa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_shell"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulioSilvaa&layout=compact&langs_count=4&theme=dracula"/>
 </div>
   
   <div style="display: inline_block"><br>
@@ -41,7 +41,7 @@ Sejam Bem vindos !!!
   
 
   
-   ![Snake animation](https://github.com/juliosan-bit/juliosan-bit/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/juliosan-bit/JulioSilvaa/blob/output/github-contribution-grid-snake.svg)
   
 
    
