@@ -41,7 +41,7 @@ Sejam Bem vindos !!!
   
 
   
-   ![Snake animation](https://github.com/juliosan-bit/JulioSilvaa/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/JulioSilvaa/JulioSilvaa/blob/output/github-contribution-grid-snake.svg)
   
 
    
