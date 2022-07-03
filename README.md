@@ -7,7 +7,7 @@ Sejam Bem vindos !!!
 - 😜 Conhecimento em HTM, CSS,Javascript e React
 - 👍 consumo de API REST
 - 👍 Versionamento de Código Git
-- 👯 Atualmente desvendando o BACKEND com FIREBASE e MONGODB
+
    ##
   
 
