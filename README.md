@@ -1,4 +1,10 @@
-## Oiii! Eu sou Julio 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=66cc99&height=120&section=header"/>
+<div align="center">
+<img src="https://i.pinimg.com/originals/7c/ca/c4/7ccac4699f861ebd999ed270a5a42eac.gif" width="40"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=66cc99&center=true&vCenter=true&width=750&lines=HELLO%2C+Eu+sou+o+Julio;Seja+Bem+vindo!++%3A)" alt="Typing SVG" /></a><img src="https://i.pinimg.com/originals/7c/ca/c4/7ccac4699f861ebd999ed270a5a42eac.gif" width="40">
+</div>
+ <br>
+ <br>
+ <br>
 
    Graduando em Análise e Desenvolvimento de Sistemas atualmente no 3º semestre, estudando desenvolvimento frontend desde 2021. No meu GitHub será possível acompanhar um pouco da minha tragetória, na maior parte os projetos são voltados para o frontend, usando a stack do JavaScript. Porém já construi algumas APIs para aprendizagem e vou dizer, gostei bastante de fazer um projeto FULLSTACK.
    Me considero uma pessoa que gosta de estar em contante aprendizado.
@@ -18,7 +24,7 @@
   <div style="display: inline_block"><br>
 
   
-  ## Algumas das tecnologias que já utilizei
+  ## <h2>Algumas das tecnologias que já utilizei</h2>
   <img align="center" alt="julio-Js" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="julio-React" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="julio-HTML" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -36,9 +42,23 @@
   </div>
   
 
-  
-  
+  <br>
+  <br>
 
+  <div align="center"> 
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JulioSilvaa/JulioSilvaa/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JulioSilvaa/JulioSilvaa/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JulioSilvaa/JulioSilvaa/output/github-contribution-grid-snake-dark.svg">
+</div>
+
+<div align="center">
+<br><p align="centre"><b>Visitantes</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{JulioSilvaa}/count.svg" /></p> 
+<br>
+</div>
+
+<br>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=footer">
   
   
   
