@@ -46,9 +46,7 @@
   <br>
 
   <div align="center"> 
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JulioSilvaa/JulioSilvaa/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JulioSilvaa/JulioSilvaa/output/github-contribution-grid-snake-dark.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JulioSilvaa/JulioSilvaa/output/github-contribution-grid-snake-dark.svg">
+  ![snake gif](https://github.com/JulioSilvaa/JulioSilvaa/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 <div align="center">
