@@ -6,7 +6,7 @@
  <br>
  <br>
 
-   Graduando em Análise e Desenvolvimento de Sistemas atualmente no 3º semestre, estudando desenvolvimento frontend desde 2021. No meu GitHub será possível acompanhar um pouco da minha tragetória, na maior parte os projetos são voltados para o frontend, usando a stack do JavaScript. Porém já construi algumas APIs para aprendizagem e vou dizer, gostei bastante de fazer um projeto FULLSTACK.
+   Graduando em Análise e Desenvolvimento de Sistemas atualmente no 4º semestre, estudando desenvolvimento frontend desde 2021. No meu GitHub será possível acompanhar um pouco da minha tragetória, na maior parte os projetos são voltados para o frontend, usando a stack do JavaScript. Porém já construi algumas APIs para aprendizagem e vou dizer, gostei bastante de fazer um projeto FULLSTACK.
    Me considero uma pessoa que gosta de estar em contante aprendizado.
 
 
