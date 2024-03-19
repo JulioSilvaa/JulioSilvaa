@@ -1,13 +1,19 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=006699&height=120&section=header"/>
-<div align="center">
-<img src="https://i.pinimg.com/originals/7c/ca/c4/7ccac4699f861ebd999ed270a5a42eac.gif" width="40"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=006699&center=true&vCenter=true&width=750&lines=HELLO%2C+Eu+sou+o+Julio;Seja+Bem+vindo!++%3A)" alt="Typing SVG" /></a><img src="https://i.pinimg.com/originals/7c/ca/c4/7ccac4699f861ebd999ed270a5a42eac.gif" width="40">
-</div>
- <br>
- <br>
- <br>
+🌟 Olá! Meu nome é Julio, tenho 37 anos e trabalho como técnico em eletrônica desde 2010. Durante minha carreira, tive a oportunidade de trabalhar com a manutenção de equipamentos para diagnóstico automotivo e também com dispositivos voltados para a área médica, onde adquiri uma valiosa experiência técnica.
 
-   Graduando em Análise e Desenvolvimento de Sistemas atualmente no 4º semestre, estudando desenvolvimento frontend desde 2021. No meu GitHub será possível acompanhar um pouco da minha tragetória, na maior parte os projetos são voltados para o frontend, usando a stack do JavaScript. Porém já construi algumas APIs para aprendizagem e vou dizer, gostei bastante de fazer um projeto FULLSTACK.
-   Me considero uma pessoa que gosta de estar em contante aprendizado.
+🚀 Atualmente, estou imerso no fascinante mundo do desenvolvimento frontend, explorando as possibilidades do React desde 2021. Além disso, estou empenhado em aprimorar minha formação acadêmica e estou graduando em Análise e Desenvolvimento de Sistemas pela UNOPAR.
+
+💼 Além disso, há um ano, iniciei minha jornada de estudos no desenvolvimento backend, construindo APIs para aprimorar minhas habilidades. Essa experiência tem ampliado minha compreensão do desenvolvimento de software e me permitido explorar novas facetas da tecnologia.
+
+🎓 Sou movido pela paixão por aprender e estou sempre buscando adquirir novos conhecimentos e habilidades. A constante evolução das tecnologias me inspira, e estou comprometido em permanecer atualizado com as últimas tendências do mercado.
+
+🤝 Acredito na importância do aprendizado contínuo para impulsionar minha carreira e alcançar novos patamares de sucesso. Meu objetivo é aplicar meu conhecimento técnico e minha paixão pelo desenvolvimento de software para contribuir de forma significativa em projetos desafiadores e inovadores.
+
+🤝 Estou aberto a novas oportunidades de colaboração e conexões na área de tecnologia. Vamos nos conectar e explorar as possibilidades juntos!
+
+
+Para entrar em contato:<br/>
+📲 (16) 9 9106-3282 (WhatsApp)<br/>
+📧 sillvaa.julioc@gmail.com
 
 
   <a href="https://www.linkedin.com/in/j%C3%BAlio-c%C3%A9sar-da-silva-frontend/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
