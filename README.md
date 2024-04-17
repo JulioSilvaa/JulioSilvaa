@@ -1,15 +1,10 @@
-🌟 Olá! Meu nome é Julio, tenho 37 anos e trabalho como técnico em eletrônica desde 2010. Durante minha carreira, tive a oportunidade de trabalhar com a manutenção de equipamentos para diagnóstico automotivo e também com dispositivos voltados para a área médica, onde adquiri uma valiosa experiência técnica.
+Olá, sou Julio, tenho 37 anos e possuo uma vasta experiência em eletrônica, iniciada em 2010. Atualmente, estou focado em trabalhos de automação, aplicando minhas habilidades técnicas nesse campo.
 
-🚀 Atualmente, estou imerso no fascinante mundo do desenvolvimento frontend, explorando as possibilidades do React desde 2021. Além disso, estou empenhado em aprimorar minha formação acadêmica e estou graduando em Análise e Desenvolvimento de Sistemas pela UNOPAR.
+Recentemente, direcionei meus estudos para o desenvolvimento backend e frontend, com ênfase em React desde 2021. Paralelamente, estou cursando Análise e Desenvolvimento de Sistemas pela UNOPAR, visando aprimorar minha formação acadêmica.
 
-💼 Além disso, há um ano, iniciei minha jornada de estudos no desenvolvimento backend, construindo APIs para aprimorar minhas habilidades. Essa experiência tem ampliado minha compreensão do desenvolvimento de software e me permitido explorar novas facetas da tecnologia.
+Sou impulsionado por uma paixão contínua pelo aprendizado e pelas novidades tecnológicas. Estou constantemente atualizado com as tendências do mercado. Meu objetivo é contribuir de maneira significativa para projetos desafiadores e inovadores.
 
-🎓 Sou movido pela paixão por aprender e estou sempre buscando adquirir novos conhecimentos e habilidades. A constante evolução das tecnologias me inspira, e estou comprometido em permanecer atualizado com as últimas tendências do mercado.
-
-🤝 Acredito na importância do aprendizado contínuo para impulsionar minha carreira e alcançar novos patamares de sucesso. Meu objetivo é aplicar meu conhecimento técnico e minha paixão pelo desenvolvimento de software para contribuir de forma significativa em projetos desafiadores e inovadores.
-
-🤝 Estou aberto a novas oportunidades de colaboração e conexões na área de tecnologia. Vamos nos conectar e explorar as possibilidades juntos!
-
+Estou aberto a novas oportunidades de colaboração e conexões na área de tecnologia. Para entrar em contato comigo, utilize os seguintes meios:
 
 Para entrar em contato:<br/>
 📲 (16) 9 9106-3282 (WhatsApp)<br/>
