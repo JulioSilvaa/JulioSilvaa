@@ -8,7 +8,7 @@ Estou aberto a novas oportunidades de colaboração e conexões na área de tecn
 
 Para entrar em contato:<br/>
 📲 (16) 9 9106-3282 (WhatsApp)<br/>
-📧 sillvaa.julioc@gmail.com
+📧 juliocesar.amancio@yahoo.com.br
 
 
   <a href="https://www.linkedin.com/in/j%C3%BAlio-c%C3%A9sar-da-silva-frontend/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
