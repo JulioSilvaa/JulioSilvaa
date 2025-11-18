@@ -1,10 +1,24 @@
-Olá, sou Julio, tenho 37 anos e possuo uma vasta experiência em eletrônica, iniciada em 2010. Atualmente, estou focado em trabalhos de automação, aplicando minhas habilidades técnicas nesse campo.
+Desenvolvedor Full Stack com formação em Análise e Desenvolvimento de Sistemas e 12 anos de experiência técnica em eletrônica e automação industrial.
+Desde 2020 em transição de carreira para desenvolvimento de software, com experiência em JavaScript, TypeScript, React e Node.js. Atualmente atuando como desenvolvedor na HiTemp, onde crio interfaces, APIs e automações.
+🔧 Stack Técnica:
 
-Recentemente, direcionei meus estudos para o desenvolvimento backend e frontend, com ênfase em React desde 2021. Paralelamente, estou cursando Análise e Desenvolvimento de Sistemas pela UNOPAR, visando aprimorar minha formação acadêmica.
+Front-end: React, TypeScript, JavaScript, Redux, HTML, CSS, SASS
+Back-end: Node.js, Express, API REST
+Banco de Dados: SQL (PostgreSQL, MySQL), NoSQL (MongoDB)
+Ferramentas: Git, GitHub, N8N
+Programação Industrial: C++, Python
 
-Sou impulsionado por uma paixão contínua pelo aprendizado e pelas novidades tecnológicas. Estou constantemente atualizado com as tendências do mercado. Meu objetivo é contribuir de maneira significativa para projetos desafiadores e inovadores.
+💼 Diferenciais:
+✓ Forte background técnico em resolução de problemas complexos
+✓ Experiência em automação e lógica de programação aplicada
+✓ Visão completa do ciclo de desenvolvimento (front + back)
+✓ Facilidade de aprendizado e adaptação rápida
+✓ Inglês técnico para leitura de documentação
 
-Estou aberto a novas oportunidades de colaboração e conexões na área de tecnologia. Para entrar em contato comigo, utilize os seguintes meios:
+🎯 Objetivo: Busco oportunidades como Desenvolvedor Full Stack Júnior ou Back-End onde possa aplicar minhas habilidades em JavaScript/TypeScript, Node.js e bancos de dados, contribuindo com soluções eficientes e escaláveis.
+
+📧 juliocesar.amancio@yahoo.com.br
+📱 (16) 9 9106-3282
 
 Para entrar em contato:<br/>
 📲 (16) 9 9106-3282 (WhatsApp)<br/>
