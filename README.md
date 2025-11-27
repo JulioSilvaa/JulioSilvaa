@@ -41,8 +41,6 @@ Desenvolvedor com **1 ano de experiência profissional** e **12 anos de backgrou
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white)
 
-📧 juliocesar.amancio@yahoo.com.br
-📱 (16) 9 9106-3282
 
 Para entrar em contato:<br/>
 📲 (16) 9 9106-3282 (WhatsApp)<br/>
