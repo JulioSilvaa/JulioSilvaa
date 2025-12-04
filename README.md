@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 🚀 Desenvolvedor Full Stack | JavaScript • TypeScript • Node.js • React<br><br>Desenvolvedor com **1 ano de experiência profissional** e **12 anos de background técnico** em eletrônica e automação. Apaixonado por código limpo, boas práticas e aprendizado contínuo.<br><br>---<br><br>### 💼 Sobre mim<br><br>- 🔭 Atualmente trabalhando na **HiTemp Soluções Tecnológicas** como Desenvolvedor<br>- 🌱 Estudando **Clean Architecture**, **Design Patterns** e **Testes Automatizados**<br>- 💡 Praticando **Clean Code** e **SOLID** em projetos pessoais<br>- 🎓 Formado em **Análise e Desenvolvimento de Sistemas**<br>- 🎯 Buscando evoluir constantemente como desenvolvedor<br>
+## 🚀 Desenvolvedor Full Stack | JavaScript • TypeScript • Node.js • React<br><br>Desenvolvedor com **1 ano de experiência profissional** e **12 anos de background técnico** em eletrônica e automação. Apaixonado por código limpo, boas práticas e aprendizado contínuo.<br><br>---<br><br>💼 Sobre mim<br><br>- 🔭 Atualmente trabalhando na **HiTemp Soluções Tecnológicas** como Desenvolvedor<br>- 🌱 Estudando **Clean Architecture**, **Design Patterns** e **Testes Automatizados**<br>- 💡 Praticando **Clean Code** e **SOLID** em projetos pessoais<br>- 🎓 Formado em **Análise e Desenvolvimento de Sistemas**<br>- 🎯 Buscando evoluir constantemente como desenvolvedor<br>
 
 
 ## 🌐 Socials:
@@ -11,7 +11,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=JulioSilvaa&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=JulioSilvaa&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JulioSilvaa&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=JulioSilvaa&limit=5&theme=dark&combine_all_yearly_contributions=true)
